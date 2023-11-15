@@ -1,6 +1,6 @@
 # Translating Alt Text Hall of Fame
 
-[Alt Text Hall of Fame](https://alttexthalloffame.org/) is a fairly simple, one-page [WordPress](https://wordpress.org/) site. 
+[Alt Text Hall of Fame](https://alttexthalloffame.org/) is a fairly simple, one-page [WordPress](https://wordpress.org/) site. It uses the [Twenty Twenty-Three WordPress theme](https://wordpress.org/themes/twentytwentythree/), the [Fediverse Embeds](https://wordpress.org/plugins/fediverse-embeds/) plugin to embed Mastodon posts, and the [Polylang](https://wordpress.org/plugins/polylang/) plugin to manage translations.
 
 ## Translation workflow
 
