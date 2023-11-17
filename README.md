@@ -20,5 +20,6 @@ A few things to keep in mind.
 
 1. You don't have to translate everything to the word. Be natural, use common expressions and cultural references from your language. 
 2. Keep things simple, positive, and respectful. The goal is to show the positive side of describing images we share online and encourage doing this.
+3. If English is a common language in your country, you don't have the translate the first few embedded posts (excluding the alt text examples in the "But how do I know what to write?" section). There is currently no mechanism in place to translate these, so if you need to do so, please replace the iframe HTML code with a translated quote and link to the original fediverse post. For the example alt text, you can keep the embed code and only translate the alt text next to it.
 
 Also, be sure to [edit your profile](https://alttexthalloffame.org/wp-admin/profile.php) so that you can be [properly credited for your work](https://alttexthalloffame.org/en/#contributors); specifically your display name and a URL of your website or social media profile. (Your email will not be publicly displayed.)
