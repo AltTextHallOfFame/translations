@@ -21,4 +21,4 @@ A few things to keep in mind.
 1. You don't have to translate everything to the word. Be natural, use common expressions and cultural references from your language. 
 2. Keep things simple, positive, and respectful. The goal is to show the positive side of describing images we share online and encourage doing this.
 
-Also, be sure to [edit your profile](https://alttexthalloffame.org/en/#contributors), specifically your display name and a URL of your website or social media profile. (Your email will not be publicly displayed.)
+Also, be sure to [edit your profile](https://alttexthalloffame.org/wp-admin/profile.php) so that you can be [properly credited for your work](https://alttexthalloffame.org/en/#contributors); specifically your display name and a URL of your website or social media profile. (Your email will not be publicly displayed.)
